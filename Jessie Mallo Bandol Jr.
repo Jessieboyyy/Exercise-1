@@ -1,0 +1,16 @@
+# Print a greeting message
+print("Hello, Im Jessie Mallo Bandol Jr! BSCS 3G")
+
+# Python variables 
+number = 27
+name = "Jessie Mallo Bandol Jr"
+
+# Print the values of the variables
+print("Number:", number)
+print("Name:", name)
+
+# Python - Variables Names
+# Assuming the names of the group members are Ahven, Rhica, and Chyno
+ahven = "Ahven"
+rhica = "Rhica"
+chyno = "Chyno"
